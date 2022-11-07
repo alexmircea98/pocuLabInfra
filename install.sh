@@ -22,7 +22,7 @@ cd ..
 sudo make develop
 
 # make containers for labs
-cd  pocuLabInfra/containers
+cd  ~/pocuLabInfra/containers
 sudo make
 
 cd ..
