@@ -22,7 +22,7 @@ cd ..
 sudo make develop
 
 # make containers for labs
-cd  home/mininet/pocuLabInfra/containers
+cd  /home/mininet/pocuLabInfra/containers
 sudo make
 
 cd ..
